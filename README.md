@@ -1,4 +1,4 @@
-basic git commands
+#basic git commands
 1. To set name and email address for a repo
 
 git config --global user.name "hmbashar"
